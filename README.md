@@ -2,6 +2,7 @@
 
 npm run build  打包文件  
 npm start  启动服务  
+npm docs  文件的转化  
 
 ## 新增银行配置  
 - tsconfig.json 增加ts设置   
